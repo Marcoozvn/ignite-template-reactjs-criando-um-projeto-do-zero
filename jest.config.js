@@ -40,6 +40,7 @@ module.exports = {
   //   "lcov",
   //   "clover"
   // ],
+  testEnvironment: 'jsdom',
 
   // An object that configures minimum threshold enforcement for coverage results
   // coverageThreshold: undefined,
